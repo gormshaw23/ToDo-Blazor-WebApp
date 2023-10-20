@@ -1,5 +1,4 @@
 
-
 # Simple BlazorTodo: A Basic To-Do List App
 
 Simple BlazorTodo is a minimalistic to-do list web application built with ASP.NET Blazor Server. This project serves as an excellent starting point for beginners to understand the basics of Blazor and web development. It offers straightforward to-do list functionality, allowing you to add and manage tasks with ease.
