@@ -1,4 +1,4 @@
-Certainly, if it's a basic app created for learning purposes, let's create a simplified README description for your ASP.NET Blazor Server "Todo" web app:
+
 
 # Simple BlazorTodo: A Basic To-Do List App
 
